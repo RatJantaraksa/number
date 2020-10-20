@@ -1,13 +1,13 @@
 {
-	"name": "rundiz/number",
+	"name": "ratjantaraksa/number",
 	"type": "library",
 	"description": "Number conversion (number to text) (Thai and English)",
 	"keywords": ["number", "num to text", "number to text", "number conversion", "convert number", "number convert"],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Vee W.",
-			"email": "kawewong@gmail.com",
+			"name": "Rat Jantaraksa",
+			"email": "rat.j@daingern.com",
 			"homepage": "http://rundiz.com",
 			"role": "Developer"
 		}
